@@ -5,3 +5,5 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+posts = Post.create({title: 'Jessicas Tmog Blog', description: 'A slew of WoW transmog options to have all the players turning heads!'})
